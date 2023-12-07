@@ -52,8 +52,13 @@ Commit your Changes (git commit -m 'Add YourFeature')
 Push to the Branch (git push origin feature/YourFeature)
 Open a Pull Request
 
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-
+# Contact
+Name : Muhammad Ghulam Jillani (Jillani SoftTech)
+Your Email: m.g.jillani123@gmail.com
+Project Link: DeepDetect Repository : ``` cd DeepDetect-Advanced-Deep-Learning-for-Multiple-Object-Detection ```
 
 
 
